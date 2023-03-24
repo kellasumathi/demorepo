@@ -1,0 +1,12 @@
+git commands
+
+git config --global user.name "[kella sumi]"
+git config --global user.email "sumathi.k1508@gmail.com]"
+cd to change the directory
+-a is to check hidden files eg ls -a
+touch is used to create a file in git eg: touch demo.txt
+git status to find the level of the git
+git add . is used to commit the file means to save the file 
+git commit -m "demo.txt is added" is used add in git 
+vi demo.txt is used to insert the data in the git
+cat names.txt is to view the inserted data in git
